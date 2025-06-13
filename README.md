@@ -1,9 +1,9 @@
 # 💫 About Me:
 - I'm currently studying in computer engineering at Chulalongkorn University<br>
-## IT Security & Network Intern @ Mitsubishi Electric Kang Yong Watana Co., Ltd.  
+## Internship
+IT Security & Network Intern @ Mitsubishi Electric Kang Yong Watana Co., Ltd.
 📍 Bangkok, Thailand | 🗓️ May 26, 2025 – July 4, 2025  
 - Assisted in monitoring and maintaining the company's internal network infrastructure  
-- Supported firewall and network security operations, including access control and traffic monitoring  
 - Helped configure routers, switches, and VLANs to ensure secure and efficient data communication  
 - Participated in basic vulnerability scanning and network troubleshooting under the IT security team  
 ## 🗒️ Certificate
