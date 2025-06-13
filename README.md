@@ -9,7 +9,7 @@ IT Security & Network Intern @ Mitsubishi Electric Kang Yong Watana Co., Ltd.<br
 - Participated in basic vulnerability scanning and network troubleshooting under the IT security team  
 ## 🗒️ Certificate
 Each badge is clickable and links to the verified certificate pages.<br>
-### 💽 Data engineering series
+### 💽 IBM Data engineering certificate series
 - Data engineering essentials <br>
 [![Data engineering essentials](https://raw.githubusercontent.com/SNaytiP/SNaytiP/main/data-engineering-essentials.png)](https://www.credly.com/badges/00196eaf-90dd-41d9-843f-e93a60160961/public_url)
 - Python for Data science and AI <br>
