@@ -1,6 +1,6 @@
 # 💫 About Me:
 - I'm currently studying in computer engineering at Chulalongkorn University<br>
-# 🗒️ Certificate
+## 🗒️ Certificate
 
 https://www.credly.com/badges/00196eaf-90dd-41d9-843f-e93a60160961/public_url
 
