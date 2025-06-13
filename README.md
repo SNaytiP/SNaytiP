@@ -1,7 +1,7 @@
 # 💫 About Me:
 - I'm currently studying in computer engineering at Chulalongkorn University<br>
 ## 🗒️ Certificate
-[![Data engineering essentials](https://raw.githubusercontent.com/SNaytiP/SNaytiP/main/data-engineering-essentials.png)]([https://example.com/view-certificate](https://www.credly.com/badges/00196eaf-90dd-41d9-843f-e93a60160961/public_url))
+[![Data engineering essentials](https://raw.githubusercontent.com/SNaytiP/SNaytiP/main/data-engineering-essentials(1).png)]([https://example.com/view-certificate](https://www.credly.com/badges/00196eaf-90dd-41d9-843f-e93a60160961/public_url))
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Naytipat)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Ityain_ine) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/Naytipat/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:NaytipatP@gmail.com) 
