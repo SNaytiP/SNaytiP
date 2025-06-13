@@ -1,6 +1,7 @@
 # 💫 About Me:
 - I'm currently studying in computer engineering at Chulalongkorn University<br>
 ## 🗒️ Certificate
+Each badge is clickable and links to the verified certificate pages.
 [![Data engineering essentials](https://raw.githubusercontent.com/SNaytiP/SNaytiP/main/data-engineering-essentials(2).png)](https://www.credly.com/badges/00196eaf-90dd-41d9-843f-e93a60160961/public_url)
 
 ## 🌐 Socials:
