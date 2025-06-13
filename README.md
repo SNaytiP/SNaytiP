@@ -3,9 +3,9 @@
 ## 🗒️ Certificate
 Each badge is clickable and links to the verified certificate pages.<br>
 ### 💽 Data engineering series
-- Data engineering essentials
+- Data engineering essentials <br>
 [![Data engineering essentials](https://raw.githubusercontent.com/SNaytiP/SNaytiP/main/data-engineering-essentials.png)](https://www.credly.com/badges/00196eaf-90dd-41d9-843f-e93a60160961/public_url)
-- Python for Data science and AI
+- Python for Data science and AI <br>
 [![Python for Data science and AI](https://raw.githubusercontent.com/SNaytiP/SNaytiP/main/data-engineering-essentials.png)](https://www.credly.com/badges/e7d0e320-7030-4c78-8348-29652bf4f5fa/public_url)
 
 ## 🌐 Socials:
