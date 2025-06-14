@@ -1,5 +1,6 @@
 # 💫 About Me:
 - I'm currently studying in computer engineering at Chulalongkorn University<br>
+- Interresing in Data work , Build pipline , data warehouse 
 ## 🧑‍⚖️ Experience
 ### Internship
 IT Security & Network Intern @ Mitsubishi Electric Kang Yong Watana Co., Ltd.<br>
