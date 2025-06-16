@@ -4,7 +4,7 @@
 ## 🧑‍⚖️ Experience
 ### Internship
 IT Security & Network Intern @ Mitsubishi Electric Kang Yong Watana Co., Ltd.<br>
-📍 Bangkok, Thailand | 🗓️ May 26, 2025 – July 4, 2025  
+📍 Bangkok, Thailand | 🗓️ May 26, 2025 – now 
 - Assisted in monitoring and maintaining the company's internal network infrastructure  
 - Helped configure routers, switches, and VLANs to ensure secure and efficient data communication  
 - Participated in basic vulnerability scanning and network troubleshooting under the IT security team  
