@@ -17,6 +17,8 @@ Each badge is clickable and links to the verified certificate pages.<br>
 [![Data engineering essentials](https://raw.githubusercontent.com/SNaytiP/SNaytiP/main/data-engineering-essentials.png)](https://www.credly.com/badges/00196eaf-90dd-41d9-843f-e93a60160961/public_url)
 - Python for Data science and AI <br>
 [![Python for Data science and AI](https://raw.githubusercontent.com/SNaytiP/SNaytiP/main/python-for-data-science-and-ai.png)](https://www.credly.com/badges/e7d0e320-7030-4c78-8348-29652bf4f5fa/public_url)
+- Relational Databases (RDBMS) Essentials<br>
+[![Relational Databases (RDBMS) Essentials](https://raw.githubusercontent.com/SNaytiP/SNaytiP/main/relational-databases-rdbms-essentials.png)](https://www.credly.com/badges/63add7c4-9aff-4326-8fd7-264d9a33aba8/public_url)
 - Databases and SQL for Data Science <br>
 [![Databases and SQL for Data Science](https://raw.githubusercontent.com/SNaytiP/SNaytiP/main/databases-and-sql-for-data-science.png)](https://www.credly.com/badges/1fa0c211-05e8-403d-9d3c-eb7e7916bf2c/public_url)
 
