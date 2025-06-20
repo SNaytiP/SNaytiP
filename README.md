@@ -17,6 +17,8 @@ Each badge is clickable and links to the verified certificate pages.<br>
 [![Data engineering essentials](https://raw.githubusercontent.com/SNaytiP/SNaytiP/main/data-engineering-essentials.png)](https://www.credly.com/badges/00196eaf-90dd-41d9-843f-e93a60160961/public_url)
 - Python for Data science and AI <br>
 [![Python for Data science and AI](https://raw.githubusercontent.com/SNaytiP/SNaytiP/main/python-for-data-science-and-ai.png)](https://www.credly.com/badges/e7d0e320-7030-4c78-8348-29652bf4f5fa/public_url)
+- Databases and SQL for Data Science <br>
+[![Databases and SQL for Data Science](https://raw.githubusercontent.com/SNaytiP/SNaytiP/main/databases-and-sql-for-data-science.png)](https://www.credly.com/badges/1fa0c211-05e8-403d-9d3c-eb7e7916bf2c/public_url)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Naytipat) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Ityain_ine) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/Naytipat/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:NaytipatP@gmail.com) 
