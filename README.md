@@ -9,7 +9,7 @@ covering the full stack from document ingestion through agentic retrieval to API
 - Based in Bangkok, Thailand
 - Interested in data engineering, backend systems, and applied AI (RAG, agents, model fine-tuning)
 - Currently learning: deep learning & computer vision, and a cloud platform
-- Reach me: NaytipatP@gmail.com · [[FILL: LinkedIn URL]](https://www.linkedin.com/in/naytipat/)
+- Reach me: NaytipatP@gmail.com · [LinkedIn](https://www.linkedin.com/in/naytipat/)
 
 ---
 
@@ -60,16 +60,16 @@ vulnerability scanning and Cisco device configuration.
 
 **Black Hole Gravitational Lensing Simulator**
 Real-time relativistic light-bending simulation in Python with ModernGL / GLSL shaders.
-→ [FILL: repo link]
+→ [REPO](https://github.com/SNaytiP/Real-time-Black-Hole-Visualization-with-Gravitational-Lensing)
 
 **High-Performance IoT Edge Gateway**
 Dual-processor embedded system (STM32F411 + ESP32-S3) streaming multi-sensor data in real time
 to the NETPIE 2020 cloud platform.
-→ [FILL: repo link]
+→ [REPO](https://github.com/GoonSquad67/EMBEDDED-SYS-PROJECT)
 
 **Pawradise Inn — Pet Hotel Management System**
 Frontend booking and management platform for pet boarding services.
-→ [[FILL: repo link]](https://github.com/Pawradise-Inn/pawradise-inn)
+→ [REPO](https://github.com/Pawradise-Inn/pawradise-inn)
 
 
 ---
@@ -86,7 +86,7 @@ Frontend booking and management platform for pet boarding services.
 ## Certifications
 
 - IBM Data Engineering Professional Certificate (Coursera)
-→ [[FILL: repo link]](https://coursera.org/share/f1c1ec47d93b1def63ba41bad9d060fb)
+→ [CERTIFICATE](https://coursera.org/share/f1c1ec47d93b1def63ba41bad9d060fb)
 ---
 
 ## GitHub Stats
