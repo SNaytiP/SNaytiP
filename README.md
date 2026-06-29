@@ -70,7 +70,7 @@ to the NETPIE 2020 cloud platform.
 → [REPO](https://github.com/GoonSquad67/EMBEDDED-SYS-PROJECT)
 
 **Pawradise Inn — Pet Hotel Management System**
-Frontend booking and management platform for pet boarding services.
+UX/UI design and Frontend booking and management platform for pet boarding services.
 → [REPO](https://github.com/Pawradise-Inn/pawradise-inn)
 
 
