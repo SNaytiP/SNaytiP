@@ -1,36 +1,96 @@
-# 💫 About Me:
-- I'm currently studying in computer engineering at Chulalongkorn University<br>
-- Interesting in Data engineering and software development
-- my pccccccccccccccccccccccccccccccccccccccccccc
-## 🧑‍⚖️ Experience
-### Internship
-IT Security & Network Intern @ Mitsubishi Electric Kang Yong Watana Co., Ltd.<br>
-📍 Bangkok, Thailand | 🗓️ May 26, 2025 – July 31 , 2025
-- Assisted in monitoring and maintaining the company's internal network infrastructure  
-- Helped configure routers, switches, and VLANs to ensure secure and efficient data communication  
-- Participated in basic vulnerability scanning and network troubleshooting under the IT security team
-### Project
-- Personal website
-## 🗒️ Certificate
-Each badge is clickable and links to the verified certificate pages.<br>
-### 💽 IBM Data engineering certificate series
-- Data engineering essentials <br>
-[![Data engineering essentials](https://raw.githubusercontent.com/SNaytiP/SNaytiP/main/data-engineering-essentials.png)](https://www.credly.com/badges/00196eaf-90dd-41d9-843f-e93a60160961/public_url)
-- Python for Data science and AI <br>
-[![Python for Data science and AI](https://raw.githubusercontent.com/SNaytiP/SNaytiP/main/python-for-data-science-and-ai.png)](https://www.credly.com/badges/e7d0e320-7030-4c78-8348-29652bf4f5fa/public_url)
-- Relational Databases (RDBMS) Essentials<br>
-[![Relational Databases (RDBMS) Essentials](https://raw.githubusercontent.com/SNaytiP/SNaytiP/main/relational-databases-rdbms-essentials.png)](https://www.credly.com/badges/63add7c4-9aff-4326-8fd7-264d9a33aba8/public_url)
-- Databases and SQL for Data Science <br>
-[![Databases and SQL for Data Science](https://raw.githubusercontent.com/SNaytiP/SNaytiP/main/databases-and-sql-for-data-science.png)](https://www.credly.com/badges/1fa0c211-05e8-403d-9d3c-eb7e7916bf2c/public_url)
+# Naytipat Phothipan (Nine)
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Naytipat) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Ityain_ine) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/Naytipat/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:NaytipatP@gmail.com) 
+**Computer Engineering @ Chulalongkorn University · Aspiring Data / Software / AI Engineer**
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=SNaytiP&theme=dark&hide_border=true)<br/>
+I build production AI systems and data pipelines end-to-end. Currently an AI / Data Engineering
+intern developing a Retrieval-Augmented Generation (RAG) system for industrial equipment manuals —
+covering the full stack from document ingestion through agentic retrieval to API deployment and CI/CD.
+
+- Based in Bangkok, Thailand
+- Interested in data engineering, backend systems, and applied AI (RAG, agents, model fine-tuning)
+- Currently learning: deep learning & computer vision, and a cloud platform
+- Reach me: NaytipatP@gmail.com · [[FILL: LinkedIn URL]](https://www.linkedin.com/in/naytipat/)
+
 ---
-[![](https://visitcount.itsvg.in/api?id=SNaytiP&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
+
+**Data & AI**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat&logo=qdrant&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-LLM%20%2F%20Embeddings-7E57C2?style=flat)
+
+**Backend & DevOps**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+---
+
+## Experience
+
+**AI / Data Engineering Intern** — Mitsubishi Electric Factory Automation (Thailand) · 2026–Present
+Building a production RAG system for technical manuals: document-ingestion pipeline, hybrid
+retrieval into a Qdrant vector store, a FastAPI backend, and a full CI/CD pipeline
+(build → test → deploy → notify). Wrote a 49-test automated suite wired into CI.
+
+**IT Security & Network Intern** — Mitsubishi Electric Kang Yong Watana · May 2025–Jul 2025
+Supported internal network infrastructure: configured routers, switches, and VLANs; performed
+vulnerability scanning and Cisco device configuration.
+
+---
+
+## Featured Projects
+
+
+**Black Hole Gravitational Lensing Simulator**
+Real-time relativistic light-bending simulation in Python with ModernGL / GLSL shaders.
+→ [FILL: repo link]
+
+**High-Performance IoT Edge Gateway**
+Dual-processor embedded system (STM32F411 + ESP32-S3) streaming multi-sensor data in real time
+to the NETPIE 2020 cloud platform.
+→ [FILL: repo link]
+
+**Pawradise Inn — Pet Hotel Management System**
+Frontend booking and management platform for pet boarding services.
+→ [[FILL: repo link]](https://github.com/Pawradise-Inn/pawradise-inn)
+
+
+---
+
+## Leadership & Activities
+
+- **Head of Supply & Welfare**, FEST 2024 — led supply/welfare teams and coordinated logistics
+  and cross-department communication.
+- **Member**, CSR ESC Camp 2024 (Chulalongkorn) — renovated a school's computer room and upgraded
+  its electrical and network infrastructure.
+
+---
+
+## Certifications
+
+- IBM Data Engineering Professional Certificate (Coursera)
+→ [[FILL: repo link]](https://coursera.org/share/f1c1ec47d93b1def63ba41bad9d060fb)
+---
+
+## GitHub Stats
+
+![Nine's GitHub stats](https://github-readme-stats.vercel.app/api?username=SNaytiP&show_icons=true&hide_border=true)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SNaytiP&layout=compact&hide_border=true)
