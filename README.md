@@ -44,12 +44,14 @@ covering the full stack from document ingestion through agentic retrieval to API
 
 ## Experience
 
-**AI / Data Engineering Intern** — Mitsubishi Electric Factory Automation (Thailand) · 2026–Present
+**AI / Data Engineering Intern** 
+*Mitsubishi Electric Factory Automation (Thailand) · 2026–Present*
 Building a production RAG system for technical manuals: document-ingestion pipeline, hybrid
 retrieval into a Qdrant vector store, a FastAPI backend, and a full CI/CD pipeline
 (build → test → deploy → notify). Wrote a 49-test automated suite wired into CI.
 
-**IT Security & Network Intern** — Mitsubishi Electric Kang Yong Watana · May 2025–Jul 2025
+**IT Security & Network Intern**
+*Mitsubishi Electric Kang Yong Watana · May 2025–Jul 2025*
 Supported internal network infrastructure: configured routers, switches, and VLANs; performed
 vulnerability scanning and Cisco device configuration.
 
