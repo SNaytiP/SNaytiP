@@ -7,7 +7,7 @@ intern developing a Retrieval-Augmented Generation (RAG) system for industrial e
 covering the full stack from document ingestion through agentic retrieval to API deployment and CI/CD.
  
 - Based in Bangkok, Thailand
-- Interested in data engineering, backend systems, and applied AI (RAG, agents, model fine-tuning)
+- Interested in data engineering, robotic/humanoid, backend systems, biocomputing, and applied AI (RAG, agents, model fine-tuning, VLA)
 - Currently learning: deep learning & computer vision, and a cloud platform
 - Reach me: NaytipatP@gmail.com · [LinkedIn](https://www.linkedin.com/in/naytipat/)
 ---
